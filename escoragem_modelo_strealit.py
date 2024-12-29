@@ -39,7 +39,7 @@ def read_file(file):
 
 def main():
     # Configuração inicial da página da aplicação
-    st.set_page_config(page_title='PyCaret', page_icon = 'logo.jpg', layout="wide", initial_sidebar_state='expanded')
+    st.set_page_config(page_title='PyCaret', page_icon = 'https://github.com/laysfelix/projetoPycaret/blob/e3ef7294d7b2898c08efac742491161ea31d2500/logo.jpg', layout="wide", initial_sidebar_state='expanded')
 
     st.write("""## Escorando o modelo gerado no pycaret """)
     st.markdown("---")
