@@ -51,7 +51,7 @@ def main():
         df_credit = read_file(data_file_1)
         
         if df_credit is not None:
-            df_credit = df_credit.sample(50000)
+            df_credit = df_credit.sample(10000)
 
             model_saved = load_model('model_final')
             predict = predict_model(model_saved, data=df_credit)
