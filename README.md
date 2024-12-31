@@ -12,10 +12,20 @@ https://projetopycaret.onrender.com/
 
 ### Utilização
 
-### Dependencias
+### Dependências
 
-* Descreve quaisquer prerequisitos, bibliotecas, versão do SO, etc., que é necessário para rodar o projeto.
-* exemplo. Windows 10...
+* Bibliotecas utlizadas:
+chardet==5.2.0
+joblib==1.3.2
+matplotlib==3.7.5
+numpy==1.26.4
+openpyxl==3.1.5
+pandas==2.1.4
+pyarrow==18.1.0
+pycaret==3.3.2
+streamlit==1.41.1
+
+* Sistema Operacional: Windows 10
 
 ### Instalação
 
@@ -24,11 +34,7 @@ https://projetopycaret.onrender.com/
 
 ### Executando o projeto
 
-* Como rodar o projeto/programa
-* Passo a passo em tópicos (bullet points)
-```
-bloco de código para os comandos necessários
-```
+* streamlit run escoragem_modelo_strealit.py
 
 ## Ajuda
 
@@ -39,16 +45,11 @@ comando para rodar se o programa tiver uma informação de ajuda
 
 ## Autores
 
-Nomes dos desenvolvedores do projeto e informação para entrar em contato.
-
 Lays Félix 
 [@laysfelixbusiness]([https://www.linkedin.com/in/laysfelixbusiness/]
 
 ## Histórico de versões.
 
-* 0.2
-	* Ajustes de diversos bugs e otimização
-* 0.1
     * Primeira versão
 
 ## Licença de uso
@@ -58,9 +59,3 @@ Esse projeto possui licença de uso [NAME HERE] - acesse o arquivo LICENSE.md pa
 ## Fontes de inspiração
 
 Inspiração, trechos de códigos utilizados, etc.
-* [readme-template](https://gist.github.com/DomPizzie/7a5ff55ffa9081f2de27c315f5018afc)
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
