@@ -1,10 +1,11 @@
-# Projeto Pycaret
+<!-- # Projeto Pycaret
 
 Um simples resumo do uso/propósito do projeto.
+-->
 
 ## Descrição do projeto
 
-Um parágrafo aprofundando mais sobre o seu projeto e uma explicação geral do uso.
+Aplicativo utilizando pipeline que avalia o melhor score do cliente. 
 
 ## Link para a aplicação (LIVE)
 
