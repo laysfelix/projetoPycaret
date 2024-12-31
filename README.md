@@ -10,7 +10,7 @@ Um parágrafo aprofundando mais sobre o seu projeto e uma explicação geral do 
 
 https://projetopycaret.onrender.com
 
-<!-- ### Utilização -->
+## Utilização
 
 ### Dependências
 
@@ -26,11 +26,12 @@ pycaret==3.3.2,
 streamlit==1.41.1
 
 * Sistema Operacional: Windows 10
+* Visual Studio Code
 
 ### Instalação
 
-* Como/aonde fazer o download do seu projeto/programa
-* Quaisquer modificação necessária nos arquivos/diretórios
+* Instalar os módulos utilizados
+
 
 ### Executando o projeto
 
