@@ -49,9 +49,9 @@ comando para rodar se o programa tiver uma informação de ajuda
 Lays Félix 
 https://www.linkedin.com/in/laysfelixbusiness
 
-## Histórico de versões.
+## Histórico de versões
 
-    * Primeira versão
+Primeira versão
 
 ## Licença de uso
 
